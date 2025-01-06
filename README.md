@@ -1,6 +1,6 @@
 ## File Structure
 ### 1. Project_Group_Video_Links --> TeamVideoLink.txt --> OneDrive Video Link
-### 2. x20204787_Diego_Lemos --> OnlineRetailForecast/
+### 2. x20204787_Diego_Lemos/OnlineRetailForecast/
                                  ├── Online Retail.xlsx    # dataset
                                  ├── README.md             # README.md
                                  ├── final_project.ipynb   # Code for final project
@@ -12,7 +12,7 @@
                                  ├── Readme.pdf                         # README.md
                                  ├── x23272473_PoAI_TABA.ipynb          # Code for final project
                                  
-### 4. x23282835_Sandeep_Kumar --> FurnitureSalesForecast/
+### 4. x23282835_Sandeep_Kumar/FurnitureSalesForecast/
                                  ├── FurnitureSalesForecast_code.ipynb  # Code for final project
                                  ├── README.md                          # README.md 
                                  ├── Sandeep_Kumar_Project_Journal.pdf  # Project Journal of Sandeep Kumar
@@ -23,7 +23,7 @@
                                  ├── requirements.txt                   # Dependencies
                                  ├── streamlit_app.py                   # Streamlit dashboard code
                                  
-### 5.  x23305762_Mohammad_Shehnaj --> AvocadoSalesForecast/
+### 5.  x23305762_Mohammad_Shehnaj/AvocadoSalesForecast/
                                  ├── Avocado_Sales_Forecast.ipynb       # Code for final project
                                  ├── Dataset - Avocado.csv              # dataset
                                  ├── Project Journal - Mohammad Shehnaj.pdf  # Project Journal of Mohammad Shehnaj
